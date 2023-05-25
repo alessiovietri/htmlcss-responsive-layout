@@ -1,0 +1,41 @@
+/* 
+
+    GENERAL
+
+*/
+:root {
+
+}
+
+.container {
+    max-width: 71.25rem;
+    margin: 0 auto;
+    padding: 0 1.25rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+.my-button {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: .625rem 1.25rem;
+    border-radius: 3.125rem;
+}
+
+.my-button.blue-button {
+    background-color: var(--main-color);
+    color: white;
+}
+
+.my-button.purple-button {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.my-button.small-button {
+    font-size: .75em;
+}

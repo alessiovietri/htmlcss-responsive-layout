@@ -1,0 +1,23 @@
+/* 
+
+    RESET
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+}
+
+section {
+    scroll-margin-top: 3.75rem;
+}
